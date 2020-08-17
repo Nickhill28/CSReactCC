@@ -1,0 +1,65 @@
+body{
+    padding:5px;
+    height: 100%;
+    width: 100%;
+    margin-top: 3%;
+}
+.row{
+    text-align: center;
+}
+.btn-lg{
+    margin-top: 1%;
+    margin-right: 3%;
+    margin-bottom: 4%;
+}
+@media (min-width: 768px) {
+.search{
+    margin-left: 20%;
+}}
+@media (min-width: 750px) {
+    .col-settings{
+        margin-bottom: -10%;
+    }}
+@media (max-width: 550px) {
+        .col-settings{
+            margin-bottom: -40%;
+        }}
+.card{
+    height:65%;
+}
+.card-img-top{
+    height:80%;
+}
+.card-body{
+    font-family: 'Brush Script MT', cursive;
+}
+.footer {
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb((110, 210, 235)9, 226);
+    color: black;
+    text-align: center;
+}
+.switch {
+    align-self: flex-end;
+    margin: 0.9375rem;
+}
+.inner-switch {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #555;
+    border-radius: 1.25rem;
+    width: 3.125rem;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.1875rem;
+    margin-left: 0.3125rem;
+}
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+}
