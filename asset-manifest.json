@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todo-next/static/css/main.9a63582d.chunk.css",
+    "main.js": "/Todo-next/static/js/main.56211abb.chunk.js",
+    "main.js.map": "/Todo-next/static/js/main.56211abb.chunk.js.map",
+    "runtime-main.js": "/Todo-next/static/js/runtime-main.c7c88449.js",
+    "runtime-main.js.map": "/Todo-next/static/js/runtime-main.c7c88449.js.map",
+    "static/js/2.cd3d5607.chunk.js": "/Todo-next/static/js/2.cd3d5607.chunk.js",
+    "static/js/2.cd3d5607.chunk.js.map": "/Todo-next/static/js/2.cd3d5607.chunk.js.map",
+    "index.html": "/Todo-next/index.html",
+    "precache-manifest.aff34e40a8dc536179516b7896e94f71.js": "/Todo-next/precache-manifest.aff34e40a8dc536179516b7896e94f71.js",
+    "service-worker.js": "/Todo-next/service-worker.js",
+    "static/css/main.9a63582d.chunk.css.map": "/Todo-next/static/css/main.9a63582d.chunk.css.map",
+    "static/js/2.cd3d5607.chunk.js.LICENSE.txt": "/Todo-next/static/js/2.cd3d5607.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Todo-next/static/media/usethis.4b584432.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c88449.js",
+    "static/js/2.cd3d5607.chunk.js",
+    "static/css/main.9a63582d.chunk.css",
+    "static/js/main.56211abb.chunk.js"
+  ]
+}
