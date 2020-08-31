@@ -1,0 +1,15 @@
+<form action="/get" method="post">
+  Number:<br>
+  <input type="text" name="number">
+  <input type="submit" value="Submit">
+</form> 
+
+<table style="width:25%">
+    {% for m in message %}
+    <tr>
+        <th>{{m[0]}}</th>
+        <th>{{m[1]}}</th> 
+    </tr>
+    {% endfor %}
+</table>
+
